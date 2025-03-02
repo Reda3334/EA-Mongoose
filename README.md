@@ -1,3 +1,6 @@
+# Estado de la entrega
+Tengo la entrega hecha, la he hecho usando las explicaciones que nos dio el profesor en clase asi que ChatGPT
+
 # EA Node.js + TypeScript + Mongoose
 
 ## Requisitos Previos
